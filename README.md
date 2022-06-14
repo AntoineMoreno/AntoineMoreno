@@ -1,7 +1,7 @@
 ## Presentation
 
-Alumni at Le Wagon Bordeaux in Data Science (batch #864)
-Undergraduated in fundamental mathematics at Université de Bordeaux in 2021
+Alumni at Le Wagon Bordeaux in Data Science (batch #864).
+Undergraduated in fundamental mathematics at Université de Bordeaux in 2021.
 Currently settled in Bordeaux
 
 I'm looking for new projets linked to Data Analysis, Machine Learning and/or Deep Learning
